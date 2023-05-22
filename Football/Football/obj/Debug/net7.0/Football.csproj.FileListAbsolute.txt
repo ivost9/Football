@@ -1,0 +1,15 @@
+C:\Users\ivost\source\repos\Football\Football\bin\Debug\net7.0\Football.exe
+C:\Users\ivost\source\repos\Football\Football\bin\Debug\net7.0\Football.deps.json
+C:\Users\ivost\source\repos\Football\Football\bin\Debug\net7.0\Football.runtimeconfig.json
+C:\Users\ivost\source\repos\Football\Football\bin\Debug\net7.0\Football.dll
+C:\Users\ivost\source\repos\Football\Football\bin\Debug\net7.0\Football.pdb
+C:\Users\ivost\source\repos\Football\Football\obj\Debug\net7.0\Football.csproj.AssemblyReference.cache
+C:\Users\ivost\source\repos\Football\Football\obj\Debug\net7.0\Football.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivost\source\repos\Football\Football\obj\Debug\net7.0\Football.AssemblyInfoInputs.cache
+C:\Users\ivost\source\repos\Football\Football\obj\Debug\net7.0\Football.AssemblyInfo.cs
+C:\Users\ivost\source\repos\Football\Football\obj\Debug\net7.0\Football.csproj.CoreCompileInputs.cache
+C:\Users\ivost\source\repos\Football\Football\obj\Debug\net7.0\Football.dll
+C:\Users\ivost\source\repos\Football\Football\obj\Debug\net7.0\refint\Football.dll
+C:\Users\ivost\source\repos\Football\Football\obj\Debug\net7.0\Football.pdb
+C:\Users\ivost\source\repos\Football\Football\obj\Debug\net7.0\Football.genruntimeconfig.cache
+C:\Users\ivost\source\repos\Football\Football\obj\Debug\net7.0\ref\Football.dll
